@@ -1,0 +1,6 @@
+set(COMPONENT_SRCS  "main.c" )
+set(COMPONENT_ADD_INCLUDEDIRS ".")
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+register_component()
+

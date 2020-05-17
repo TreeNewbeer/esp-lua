@@ -1,0 +1,12 @@
+build
+sdkconfig
+sdkconfig.old
+esp-idf
+
+# VS Code Settings
+.vscode/
+
+# gtags
+GPATH
+GRTAGS
+GTAGS
